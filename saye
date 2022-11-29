@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title></title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body style="margin: 0;">
+     <div style="
+       background-color: #f1f1f9;
+       text-align: center;
+       padding: 5px;
+       "
+      >
+        <img alt="something wrong,pay attention please!" src="https://pic3.zhimg.com/v2-fea2a7e2be69b2e168e15336cab3f5fa_r.jpg" width="90px" height="125px">
+        <img alt="something wrong,pay attention please!" src="https://pic4.zhimg.com/v2-561cdde90e80447abd6d878c8a44d34b_r.jpg" width="90px" height="125px">
+      
+           <p>左边的叫大飞！右边的是他的小娇妻 猫丞！</p>
+      <p>花式帅和某丞</p>
+     </div>
+     <div style="
+       max-wide:760px;
+       margin: 100px anto;
+       text-align:center;
+       padding: 15px 
+       line-height:1.7;
+       ">
+       <p>这里我的私人网站喽 哈哈哈 </p>  
+       <p>心情还是蛮不错的 马上就要完成一个很基础的前端啦 啦啦啦  </p>
+       <p>这里就是正文喽 以后慢慢再搞吧
+         好像还不能直接分段来写奈  感觉还是挺难的呐 </div>
+     <div style="
+       background-color: #f1f1f9;
+       text-align: center;
+       padding: 40px;
+       font-size:12px
+       ">
+        <p>版权所有:  emm…… might nothing . just a stupided learning .ahahah!</p>
+        <a href="https://pic2.zhimg.com/50/v2-473d40323349bf48dabb698dc876b90d_hd.jpg?source=1940ef5c"><p> a website only belong myself</p>
+       </div> 
+    </body>
+</html>
